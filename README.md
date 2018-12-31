@@ -1,6 +1,6 @@
 ## Netflix Interactive Selection Tracker
 
-Logs every option selected during interactive content and allows you to save it to a text file
+A [Tampermonkey](https://tampermonkey.net/) script that logs every option selected during interactive Netflix content and allows you to save it to a text file
 
 #### Installation
 
