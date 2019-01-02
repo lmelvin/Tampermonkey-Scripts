@@ -4,7 +4,7 @@ A [Tampermonkey](https://tampermonkey.net/) script that logs every option select
 
 #### Installation
 
-[Here](https://github.com/lmelvin/Tampermonkey-Scripts/raw/master/Netflix_Interactive_Selection_Tracker.user.js)
+[Here](https://github.com/lmelvin/Tampermonkey-Scripts/raw/master/Netflix_Interactive_Selection_Tracker.user.js) or [Greasy Fork](https://greasyfork.org/en/scripts/376231-netflix-interactive-selection-tracker)
 
 #### How to use
 
