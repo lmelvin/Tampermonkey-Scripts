@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Netflix Interactive Selection Tracker
 // @namespace    https://github.com/lmelvin
-// @version      1.0
+// @version      1.1
 // @license      MIT
 // @description  Logs every option selected during interactive content
 // @author       lmelvin
@@ -71,7 +71,7 @@
   MutationRecord.prototype.isSelectionMutation = function () {
     return this.type == 'attributes'
       && this.target.classList.contains('BranchingInteractiveScene--choice-selection')
-      && this.target.classList.contains('selected')
+      && this.target.classList.contains('selected');
   }
 
   MutationRecord.prototype.getSelectedValue = function () {
